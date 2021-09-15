@@ -5,11 +5,13 @@ import { DashboardComponent } from './_dashboard.component';
 @NgModule({
   imports: [
     CommonModule,
-    DashboardComponent
+    
   ],
   exports: [
     DashboardComponent,
   ],
-  declarations: []
+  declarations: [
+    DashboardComponent
+  ]
 })
 export class DashboardModule { }

@@ -2,7 +2,7 @@ import { Component, VERSION } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: '<router-outlet></router-outlet>',
+  template: 'Textto de prueba',
   styleUrls: ['./app.css']
 })
 export class AppComponent {
